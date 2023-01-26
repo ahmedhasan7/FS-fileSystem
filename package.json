@@ -1,0 +1,21 @@
+{
+  "name": "fs-filesystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app2.js",
+  "type": "module",
+  "scripts": {
+    "start":"node app2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedhasan7/FS-fileSystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedhasan7/FS-fileSystem/issues"
+  },
+  "homepage": "https://github.com/ahmedhasan7/FS-fileSystem#readme"
+}
